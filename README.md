@@ -8,7 +8,7 @@
 
 ## 使用方法
 
-cookie.txt中写入登录智学网后的cookie
+user.txt中第一行写入登录账号，第二行写入密码
 
 examid.txt中写入考试的id
 
